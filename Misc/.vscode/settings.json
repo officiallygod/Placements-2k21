@@ -1,0 +1,32 @@
+{
+	"files.associations": {
+		"*.ejs": "html",
+		"ostream": "cpp",
+		"iosfwd": "cpp",
+		"fstream": "cpp",
+		"mutex": "c",
+		"shared_mutex": "c",
+		"iostream": "cpp",
+		"sstream": "cpp",
+		"regex": "cpp",
+		"chrono": "cpp",
+		"random": "cpp",
+		"limits": "cpp",
+		"valarray": "cpp",
+		"array": "cpp",
+		"deque": "cpp",
+		"forward_list": "cpp",
+		"list": "cpp",
+		"vector": "cpp",
+		"string_view": "cpp",
+		"bitset": "cpp",
+		"initializer_list": "cpp",
+		"utility": "cpp",
+		"*.tcc": "cpp",
+		"string": "cpp",
+		"unordered_map": "cpp",
+		"unordered_set": "cpp"
+	},
+	"cSpell.words": ["curr", "deque", "remf"],
+	"java.project.sourcePaths": ["MoneyView", "Maverick"]
+}

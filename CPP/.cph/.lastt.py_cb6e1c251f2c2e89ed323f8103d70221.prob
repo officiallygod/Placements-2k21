@@ -1,0 +1,1 @@
+{"name":"Local: lastt","url":"e:\\Allen\\Study\\Placements2k21\\CPP\\lastt.py","tests":[{"id":1632070339006,"input":"3\n2 3 2","output":""},{"id":1632070411932,"input":"10 \n8 4 5 6 7 2 3 9 10 99","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Allen\\Study\\Placements2k21\\CPP\\lastt.py","group":"local","local":true}

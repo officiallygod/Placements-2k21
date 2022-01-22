@@ -1,0 +1,6 @@
+HTTP/1.1 www.bmsit.ac.in 600 OK
+HTTP/1.1 www.google.com 300 OK
+HTTP/1.1 www.wer.ac.in 110 OK
+HTTP/1.1 www.casa.com 201 OK
+HTTP/1.1 www.dsfgsd.ac.in 500 OK
+HTTP/1.1 www.scdd.com 700 OK
